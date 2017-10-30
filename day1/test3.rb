@@ -1,32 +1,15 @@
 #!/usr/bin/env ruby
 
 
-  class Employee
+puts format("%f",34.55)
 
-    attr_reader :name, :salary
+puts format("the %s cost %.1f cents each","abcd",12.23)
 
+puts format("the %s cost %2.2f cents each","abcd",12.23)
 
-    def initialize(name,salary)
-      if name == ''
-        raise "Value cannot be null"
-      end
-      @name=name
-      if salary < 10000
-        raise "Value cannot be lesaa than 10000"
-      end
-      @salary=salary
-    end
+puts format("the %s cost %.3f cents each","abcd",12.23)
 
-    def exec
-      puts "Name is #{@name}"
-      puts "Biweekly salary is #{(salary/365.00)*14}"
-    end
+puts format("the %s cost %i cents each","abcd",12.23)
 
-  end
-
-
-abc = Employee.new("harsh",100000)
-
-abc.exec
 
 

@@ -6,13 +6,13 @@
     attr_reader :name, :salary
 
 
-    def initialize(name,salary)
+    def initialize(name = "xyz",salary=100000)
       if name == ''
         raise "Value cannot be null"
       end
       @name=name
-      if salary < 10000
-        raise "Value cannot be lesaa than 10000"
+      if salary < 100000
+        raise "Value cannot be lesaa than 100000"
       end
       @salary=salary
     end
@@ -25,7 +25,7 @@
   end
 
 
-abc = Employee.new("harsh",100000)
+abc = Employee.new("harsh",)
 
 abc.exec
 

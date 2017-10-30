@@ -1,21 +1,29 @@
 #!/usr/bin/env ruby
 
-  # Arrays
-  # Array methods include first, last, length, push, pop, shift, << (adds element), capitalize
-  # shift removes first element and returns it
+  # Working with blocks
 
 
-  array = [23,34,56]
-  array[6] = 55
+# def my_method
+#   yield 1
+#   yield 2
+#   yield 3
+# end
+#
+# my_method { |param| puts param}
 
-  p array.shift
-  p array
+  def my_method
+    puts ("we are in the method. We will call block now")
+    yield "Harsh", 28
+    puts("we are back in the method")
+  end
 
-  p "d-o-g".split("-")
-  p "d-o-g".chars
+  my_method { |name, age| puts "#{name} has age of #{age}" }
 
-  p ["d","o","g"].join
-  p ["d","o","g"].join("-")
+  ["a","b","c"].each { |param| puts param}
+
+
+
+
 
 
 

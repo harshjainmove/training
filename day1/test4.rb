@@ -19,17 +19,20 @@
       @salary=salary
     end
 
-    def salary=(salary)
-      puts "Name is #{@name}"
+    def details
+      p @name ,@salary
     end
 
   end
 
 
 abc = Employee.new()
+abc.salary = 15000
+abc.details
 
-abc.name = "Harsh"
 
-abc.salary = 10000
+
+
+
 
 
