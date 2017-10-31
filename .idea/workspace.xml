@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="180c7ef6-d338-47c2-8986-1db7dd84d9b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/test1.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/test2.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/test3.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/test4.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/test5.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/test6.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/test7.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/test8.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/test9.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day2/votes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day3/test1.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day3/test2.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +24,9 @@
     <SUITE FILE_PATH="coverage/training@test8.coverage" NAME="test8 Coverage Results" MODIFIED="1509402749358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" MODULE_NAME="training" />
     <SUITE FILE_PATH="coverage/training@test13.coverage" NAME="test13 Coverage Results" MODIFIED="1509341525175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" MODULE_NAME="training" />
     <SUITE FILE_PATH="coverage/training@test5.coverage" NAME="test5 Coverage Results" MODIFIED="1509383236031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" MODULE_NAME="training" />
-    <SUITE FILE_PATH="coverage/training@test2.coverage" NAME="test2 Coverage Results" MODIFIED="1509349513203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" MODULE_NAME="training" />
+    <SUITE FILE_PATH="coverage/training@test2.coverage" NAME="test2 Coverage Results" MODIFIED="1509470931812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" MODULE_NAME="training" />
     <SUITE FILE_PATH="coverage/training@test10.coverage" NAME="test10 Coverage Results" MODIFIED="1509163342149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" MODULE_NAME="training" />
+    <SUITE FILE_PATH="coverage/training@test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1509408339354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" MODULE_NAME="training" />
     <SUITE FILE_PATH="coverage/training@test14.coverage" NAME="test14 Coverage Results" MODIFIED="1509341174689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" MODULE_NAME="training" />
     <SUITE FILE_PATH="coverage/training@test11.coverage" NAME="test11 Coverage Results" MODIFIED="1509168633892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" MODULE_NAME="training" />
     <SUITE FILE_PATH="coverage/training@test.coverage" NAME="test Coverage Results" MODIFIED="1509058628971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="training" />
@@ -45,17 +38,37 @@
         <entry file="file://$PROJECT_DIR$/day2/test8.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
-              <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+              <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test9.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test9.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day2/test9.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="660">
-              <caret line="44" column="24" lean-forward="true" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+              <caret line="44" column="24" lean-forward="false" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test1.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day3/test1.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test2.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day3/test2.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -105,6 +118,8 @@
         <option value="$PROJECT_DIR$/day2/test7.rb" />
         <option value="$PROJECT_DIR$/day2/test8.rb" />
         <option value="$PROJECT_DIR$/day2/test9.rb" />
+        <option value="$PROJECT_DIR$/day3/test1.rb" />
+        <option value="$PROJECT_DIR$/day3/test2.rb" />
       </list>
     </option>
   </component>
@@ -115,10 +130,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1403" />
-    <option name="y" value="331" />
     <option name="width" value="1280" />
-    <option name="height" value="714" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -138,6 +151,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -145,22 +160,10 @@
               <item name="training" type="b2602c69:ProjectViewProjectNode" />
               <item name="training" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="training" type="462c0819:PsiDirectoryNode" />
-              <item name="day1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="training" type="462c0819:PsiDirectoryNode" />
-              <item name="day2" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,6 +176,7 @@
       <recent name="$PROJECT_DIR$/day1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day3" />
       <recent name="$PROJECT_DIR$/day2" />
       <recent name="$PROJECT_DIR$/day1" />
       <recent name="$PROJECT_DIR$" />
@@ -190,11 +194,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.test9">
-    <configuration name="test1" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+  <component name="RunManager" selected="Ruby.test2">
+    <configuration name="test1 (1)" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="training" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/day2" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/day3" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -206,13 +210,13 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/day2/test1.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/day3/test1.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
-    <configuration name="test6" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="test2" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="training" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/day2" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/day3" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -224,7 +228,7 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/day2/test6.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/day3/test2.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
     <configuration name="test7" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
@@ -282,19 +286,19 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Ruby.test1" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.test6" />
-      <item index="2" class="java.lang.String" itemvalue="Ruby.test7" />
-      <item index="3" class="java.lang.String" itemvalue="Ruby.test8" />
-      <item index="4" class="java.lang.String" itemvalue="Ruby.test9" />
+      <item index="0" class="java.lang.String" itemvalue="Ruby.test7" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.test8" />
+      <item index="2" class="java.lang.String" itemvalue="Ruby.test9" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.test1 (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.test2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.test9" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.test8" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.test7" />
-        <item index="3" class="java.lang.String" itemvalue="Ruby.test1" />
-        <item index="4" class="java.lang.String" itemvalue="Ruby.test6" />
+        <item index="0" class="java.lang.String" itemvalue="Ruby.test2" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.test1 (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.test9" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.test8" />
+        <item index="4" class="java.lang.String" itemvalue="Ruby.test7" />
       </list>
     </recent_temporary>
   </component>
@@ -315,23 +319,23 @@
       <workItem from="1509058400948" duration="2403000" />
       <workItem from="1509089253273" duration="5693000" />
       <workItem from="1509136434808" duration="29355000" />
-      <workItem from="1509401149046" duration="2135000" />
+      <workItem from="1509401149046" duration="5533000" />
+      <workItem from="1509469563933" duration="1597000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40963000" />
+    <option name="totallyTimeSpent" value="45958000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1213" y="0" width="1347" height="1440" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11878248" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.059375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15503876" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27554616" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28369704" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -356,6 +360,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/day3/test2.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day1/test14.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -719,7 +731,7 @@
     <entry file="file://$PROJECT_DIR$/day2/test8.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
-          <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+          <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -727,7 +739,23 @@
     <entry file="file://$PROJECT_DIR$/day2/test9.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
-          <caret line="44" column="24" lean-forward="true" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+          <caret line="44" column="24" lean-forward="false" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3/test1.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3/test2.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
